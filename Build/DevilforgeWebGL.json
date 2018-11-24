@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "DevilforgeWebGL.data.unityweb",
+"asmCodeUrl": "DevilforgeWebGL.asm.code.unityweb",
+"asmMemoryUrl": "DevilforgeWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "DevilforgeWebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
